@@ -1,3 +1,4 @@
-add (1 +80)
-60 - 40
+function add (a, b ) { 
+  return a + b ;
+}
 
