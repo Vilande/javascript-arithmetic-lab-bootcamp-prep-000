@@ -16,3 +16,4 @@ function inc(number) {
 function dec (n) {
   return n -= 1 ;
 }
+parseInt('nonsense!', 10)
