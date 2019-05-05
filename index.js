@@ -10,7 +10,6 @@ function multiply (a, b) {
 function divide (a, b) {
   return a / b ;
 }
-var numer = 5
 function inc(number) {
-  return number++
+  return number+= 3 ;
 }
