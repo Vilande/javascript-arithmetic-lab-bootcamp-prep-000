@@ -16,4 +16,6 @@ function inc(number) {
 function dec (n) {
   return n -= 1 ;
 }
-parseInt('nonsense!', 10)
+function makeInt(n) {
+  return parseInt('1')
+}
