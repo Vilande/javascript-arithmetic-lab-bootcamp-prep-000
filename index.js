@@ -11,5 +11,5 @@ function divide (a, b) {
   return a / b ;
 }
 function inc(number) {
-  return number+= 3 ;
+  return number+= 1 ;
 }
